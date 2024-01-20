@@ -34,3 +34,7 @@ wandb agent <your_sweep_id>
 ```
 - Multiple wandb agent processes can be launched to search in parallel
 - Access wandb.ai to see the synthesis results visualized
+
+## Visialization Result
+![image](https://github.com/jin0g/wandb-vitis-hls/assets/5592048/6fa728e2-fff0-490e-ac27-d3c2ab6d2c2e)
+
