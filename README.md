@@ -40,7 +40,7 @@ This will execute the Vitis HLS tool with the specified parameters and log the r
 Example `sweep-config.yaml`:
 
 ```yaml
-program: your_script.py
+program: main.py
 method: grid
 parameters:
   hls-period:
